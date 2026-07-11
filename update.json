@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
-  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.12/naqaa_app-v1.0.12.apk",
-  "notes": "تحديث 1.0.12: تحسينات على كاميرا المؤثرات — إزالة بعض المؤثرات وترتيب أفضل (خوذة الفايكنج أولاً) ⛑️، مع إصلاحات وتحسينات عامة. 🎉",
+  "versionCode": 14,
+  "versionName": "1.0.13",
+  "apkUrl": "https://github.com/AhmedHashem500/naqaa-releases/releases/download/v1.0.13/naqaa_app-v1.0.13.apk",
+  "notes": "تحديث 1.0.13: إضافة قسم يوتيوب (قوائم تشغيل داخل التطبيق مع إمكانية التنزيل) 📺، فيديوهات جديدة للحيوانات 🐮، تحسينات على الإعدادات وواجهة المستخدم، وإصلاحات عامة. 🎉",
   "mandatory": false
 }
